@@ -1,6 +1,6 @@
-package com.jetbrains.simplelogin.androidapp.data
+package com.filipradon.shared.data
 
-import com.jetbrains.simplelogin.androidapp.data.model.LoggedInUser
+import com.filipradon.shared.data.model.LoggedInUser
 
 /**
  * Class that requests authentication and user information from the remote data source and
